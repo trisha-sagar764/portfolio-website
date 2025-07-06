@@ -1,6 +1,6 @@
 # Trisha Sagar - Portfolio Website
 
-![Portfolio Screenshot](portfolio-website\screenshot.jpg) 
+![Portfolio Screenshot](screenshot.jpg) 
 
 A professional portfolio website showcasing my projects, skills, and experience as a Computer Science Engineering student.
 
